@@ -14,10 +14,10 @@
       "pr_issue_linked_ratio": "PR Issue Linked Ratio",
       "pr_issue_linked_ratio_desc": "Determine the percentage of new pull request link issues in the last 90 days.",
       "code_review_ratio": "Code Review Ratio",
-      "code_merge_ratio": "Code Merge Ratio",
-      "lines_of_code_frequency": "Lines of Code Frequency",
       "code_review_ratio_desc": "Determine the percentage of code commits with at least one reviewer (not PR creator) in the last 90 days.",
+      "code_merge_ratio": "Code Merge Ratio",
       "code_merge_ratio_desc": "Determine the percentage of PR Mergers and PR authors who are not the same person in the last 90 days of commits.",
+      "lines_of_code_frequency": "Lines of Code Frequency",
       "lines_of_code_frequency_desc": "Determine the average number of lines touched (lines added plus lines removed) per week in the past 90 days."
     }
   },
