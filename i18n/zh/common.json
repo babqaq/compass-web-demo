@@ -1,23 +1,23 @@
 {
   "header": {
     "metrics_models": "Metrics Models",
-    "community": "社区",
+    "community": "Community",
     "lab": "Lab",
-    "about": "关于"
+    "about": "About"
   },
   "community": {
     "slack": "Slack",
-    "join_slack": "加入 Slack 频道",
-    "wechat": "微信",
-    "join_wechat": "加入微信群",
+    "join_slack": "Join our community channel on Slack",
+    "wechat": "WeChat",
+    "join_wechat": "Scan our group chat QR code to join",
     "github": "GitHub",
-    "official_repository_on_github": "官方 GitHub 仓库",
+    "official_repository_on_github": "Official repository on GitHub",
     "gitee": "Gitee",
-    "official_repository_on_gitee": "官方 Gitee 仓库"
+    "official_repository_on_gitee": "Official repository on Gitee"
   },
   "footer": {
     "tutorial": "Tutorial",
-    "quick_start": "快速起步",
+    "quick_start": "Quick Start",
     "dimensions_define": "Dimensions Define",
     "legal": "Legal",
     "terms": "Terms",
@@ -25,18 +25,18 @@
     "built_with": "Built With",
     "community": "Community",
     "slack": "Slack",
-    "code": "代码"
+    "code": "Code"
   },
   "error": {
-    "invalid_url_query": "非法参数链接",
+    "invalid_url_query": "invalid url query",
     "something_went_wrong": "Something went wrong:",
     "try_to_refresh_this_page_or_feel_free_to_contact_u": "Try to refresh this page or feel free to contact us if the problem presists.",
     "try_again": "Try again",
     "oops": "<s> Oops! </s> {{message}}"
   },
   "search": {
-    "no_result": "未找到相关内容"
+    "no_result": "No result"
   },
-  "next": "下一个",
-  "know_more": "了解更多"
+  "next": "Next",
+  "know_more": "Know more"
 }
