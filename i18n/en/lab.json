@@ -1,4 +1,4 @@
 {
-  "the_locale_names_are_used_for": "The locale names are used for the translation files' locations, as well as your translated locales' base URL. When building all locales, only the default locale will have its name omitted in the base URL.",
+  "the_locale_names_are_used_for": "区域设置名称用于翻译文件的位置，以及翻译的区域设置的基本URL。构建所有区域设置时，只有默认区域设置的名称会在基本URL中省略.",
   "discuss": "Discuss"
 }
